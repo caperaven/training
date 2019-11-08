@@ -1,0 +1,13 @@
+# Javascript project
+This project will have different exercises that will help you learn the absolute basics of javascript.
+
+## Exercise 1
+Create a function that adds two numbers and returns the result.
+This function should be in a file called calculator.js and exported using es6 modules. In the index.html file, import the add function and execute it with any two numbers fed to the functions parameters. Print the result using the "console.log" function.
+
+When you open your browser's developer tools you should see your result in the console.
+
+## Exercise 2
+Let's add another function to the calculator.js file and call it "addNumbers". This function can accept any number of values.
+Use [spread operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax) to help you here. As with the first exercise call this function from index.html and lot the result.
+
