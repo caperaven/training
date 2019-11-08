@@ -1,1 +1,25 @@
 # Layout Project
+This will be your first project of many along the road of learning web technology. The aim of these projects are:
+Get started with creating web content.
+Get comfortable with the tooling and processes.
+Practice the basics of layout using HTML and CSS
+## Project details
+This image represents a typical website and in some cases web application layout. Replicate this layout using the correct semantic HTML tags and style it in such a way that it closely represents the image.
+
+## Steps
+We will not define the steps for every project.
+Since this is a getting started project, you will be provided with steps to help you get up and running faster.
+
+1. Ensure your tooling is installed as described in the introduction page.
+1. Create a folder for your project
+1. Open this folder in visual studio code
+1. In visual studio code create a new file in the folder called "index.html"
+1. Create the standard document markup for a new HTML file (see example below)
+1. Create the HTML markup for the different parts of the UI.
+1. In the index.html file create a style that will apply the layout required.
+1. In the visual studio code terminal run the command "ws" to run the local webserver.
+1. Open your browser and type in the URL address as indicated when you ran "ws".
+
+If at this point the layout is as you expected it to be, congratulations.
+If not, you now need to tweak your styles until you have the desired result. Remember that you will need to refresh your browser after saving your changes to see it reflected in the browser.
+
