@@ -5,5 +5,7 @@
 1. [Getting started - layout project](https://github.com/caperaven/training/blob/master/03.project-layout.md)
 1. [Getting started with javascript](https://github.com/caperaven/training/blob/master/04.javascript-getting-started.md)
 1. [Project structure](https://github.com/caperaven/training/blob/master/05.project-structure.md)
+1. [Javascrip project 1](https://github.com/caperaven/training/blob/master/06.%20Javascript%20project%201)
+
 
 
