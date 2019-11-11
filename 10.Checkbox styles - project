@@ -1,0 +1,31 @@
+# Checkbox style project
+This project is geared to expose you to more advanced css.  
+You will need to know how to use 
+
+1. [pseudo classes in css](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
+1. [css transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+1. [positioning](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+1. [will change](https://developer.mozilla.org/en-US/docs/Web/CSS/will-change)
+1. [appearance](https://css-tricks.com/almanac/properties/a/appearance/)
+1. [outline](https://developer.mozilla.org/en-US/docs/Web/CSS/outline)
+1. [border radius](https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius)
+1. [transition](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
+
+Note that a border radius of 50% makes a circle.
+
+## Project 
+Create a simple switch using only css to style a input of type checkbox.
+
+```html
+<input type="checkbox" class="switch" />
+```
+
+The switch should look like this:
+http://www.scriptism.com/wp-content/uploads/ios-style-switch-button-using-css3-and-jquery.png
+
+
+## Resources
+Here are some resources that may be useful:
+
+1. https://tympanus.net/codrops/css_reference/before/
+1. https://tympanus.net/codrops/css_reference/checked/
