@@ -1,0 +1,19 @@
+# Doing batch updates to the dom
+When working with the dom it is very slow to add elements one at a time.  
+For this project we are going to create a list based UI where all the list items are added at once.
+
+## Project details
+Create this [list UI](https://cdn.dribbble.com/users/1591610/screenshots/4426221/to-do_shot.jpg)
+The list must be created using javascript and should be dynamic.
+If I change the list the UI should update showing the new list.
+
+For the list structure you need to use [templates](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template).  
+When constructing the list items to add to the UI you must use [document fragments](https://developer.mozilla.org/en-US/docs/Web/API/Document/createDocumentFragment).
+
+## Notes
+This project is now starting to move you towards performance orientated programming.
+You need to understand how the template element affects the dom during parsing.
+You also need to understand why the document fragment is a more performant way to add items to the screen.
+
+Your studies now need to include browser behaviour and performance.
+A goo place to start is the google developer documentation for [web performance](https://developers.google.com/web/fundamentals/performance/rendering)
