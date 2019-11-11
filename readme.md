@@ -13,6 +13,7 @@ It is often when we struggle through things that we remember them best. Don't wo
 1. [Combine javascript and the dom - project](https://github.com/caperaven/training/blob/master/07.Combine%20javascript%20and%20dom%20project.md)
 1. [Dev tools](https://github.com/caperaven/training/blob/master/08.dev%20tools.md)
 1. [List - project](https://github.com/caperaven/training/blob/master/09.Batch%20dom%20updates%20-%20project.md)
+1. [Checkbox styles - project](https://github.com/caperaven/training/blob/master/10.Checkbox%20styles%20-%20project.md)
 
 
 
