@@ -9,7 +9,7 @@ It is often when we struggle through things that we remember them best. Don't wo
 1. [Getting started - project on layout](https://github.com/caperaven/training/blob/master/03.project-layout.md)
 1. [Getting started with javascript](https://github.com/caperaven/training/blob/master/04.javascript-getting-started.md)
 1. [Project structure](https://github.com/caperaven/training/blob/master/05.project-structure.md)
-1. [Javascrip basics - project](https://github.com/caperaven/training/blob/master/06.%20Javascript%20project%201.md)
+1. [Javascrip basics - project](https://github.com/caperaven/training/blob/master/06.%20Javascript%20project.md)
 1. [Combine javascript and the dom - project](https://github.com/caperaven/training/blob/master/07.Combine%20javascript%20and%20dom%20project.md)
 1. [Dev tools](https://github.com/caperaven/training/blob/master/08.dev%20tools.md)
 1. [List - project](https://github.com/caperaven/training/blob/master/09.Batch%20dom%20updates%20-%20project.md)
