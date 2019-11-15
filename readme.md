@@ -16,6 +16,7 @@ It is often when we struggle through things that we remember them best. Don't wo
 1. [Checkbox styles - project](https://github.com/caperaven/training/blob/master/10.Checkbox%20styles%20-%20project.md)
 1. [Custom elements - project](https://github.com/caperaven/training/blob/master/11.Custom%20elements%20-%20project.md)
 1. [Conventions, factories and providers](https://github.com/caperaven/training/blob/master/12.%20Conventions%20factories%20and%20providers.md)
+1. [Observer pattern project](https://github.com/caperaven/training/blob/master/13.Observers.md)
 
 
 
