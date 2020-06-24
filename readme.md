@@ -4,6 +4,8 @@ Learning development and technologies is a balance between theory and practice.
 Here we will focus on both. As a self taught developer being in the industry of over 20 years I don't belive in spoon feeding.
 It is often when we struggle through things that we remember them best. Don't worry we will start at the very basics providing links to learning material and taking you through layers of complexity one step at a time. The aim is to start simple and move do the more advanced subjects over time.
 
+## Basic overview
+
 1. [Introduction](https://github.com/caperaven/training/blob/master/01.introduction.md)
 1. [Getting started with layout](https://github.com/caperaven/training/blob/master/02.html.layout.md)
 1. [Getting started - project on layout](https://github.com/caperaven/training/blob/master/03.project-layout.md)
