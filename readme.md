@@ -8,7 +8,7 @@ It is often when we struggle through things that we remember them best. Don't wo
 1. [Introduction](https://github.com/caperaven/training/blob/master/css/01.introduction.md)
 1. [Fundimentals](https://github.com/caperaven/training/blob/master/css/02.fundimentals.md)
 1. [Layout](https://github.com/caperaven/training/blob/master/css/03.layout.md)
-1. [Project 1](https://github.com/caperaven/training/blob/master/css/04.project1.md)
+1. [Project 1](https://github.com/caperaven/training/blob/master/css/05.project1.md)
 
 ## Basic overview
 
