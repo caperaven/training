@@ -12,7 +12,7 @@ It is often when we struggle through things that we remember them best. Don't wo
 1. [Project 1](https://github.com/caperaven/training/blob/master/css/05.project1.md)
 1. [Project 2](https://github.com/caperaven/training/blob/master/css/06.project2.md)
 1. [Project 3](https://github.com/caperaven/training/blob/master/css/07.project3.md)
-1. [Project 3](https://github.com/caperaven/training/blob/master/css/08.project4.md)
+1. [Project 4](https://github.com/caperaven/training/blob/master/css/08.project4.md)
 
 ## Basic overview
 
