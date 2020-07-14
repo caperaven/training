@@ -33,6 +33,7 @@ It is often when we struggle through things that we remember them best. Don't wo
 ## Using crs-binding
 1. [Introduction](https://github.com/caperaven/training/blob/master/binding/01.introduction.md)   
 1. [Inflation](https://github.com/caperaven/training/blob/master/binding/02.inflation.md)   
+1. [Simple Array](https://github.com/caperaven/training/blob/master/binding/03.simple-array.md)
 
 
 
