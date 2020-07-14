@@ -30,7 +30,9 @@ It is often when we struggle through things that we remember them best. Don't wo
 1. [Conventions, factories and providers](https://github.com/caperaven/training/blob/master/basic/12.%20Conventions%20factories%20and%20providers.md)
 1. [Observer pattern project](https://github.com/caperaven/training/blob/master/basic/13.Observers.md)
 
-
+## Using crs-binding
+1. [Introduction](https://github.com/caperaven/training/blob/master/binding/01.introduction.md)   
+1. [Inflation](https://github.com/caperaven/training/blob/master/binding/02.inflation.md)   
 
 
 
