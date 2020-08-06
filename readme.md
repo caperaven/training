@@ -45,4 +45,5 @@ It is often when we struggle through things that we remember them best. Don't wo
 1. [Project 3](https://github.com/caperaven/training/blob/master/accessibility/04.project3.md)
 1. [Project 4](https://github.com/caperaven/training/blob/master/accessibility/05.project4.md)
 1. [Project 5](https://github.com/caperaven/training/blob/master/accessibility/06.project5.md)
-
+1. [Project 6](https://github.com/caperaven/training/blob/master/accessibility/07.project6.md)
+1. [Project 7](https://github.com/caperaven/training/blob/master/accessibility/08.project7.md)
